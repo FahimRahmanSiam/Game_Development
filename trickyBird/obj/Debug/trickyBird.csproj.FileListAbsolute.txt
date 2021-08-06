@@ -1,0 +1,10 @@
+D:\C#\projects\trickyBird\bin\Debug\trickyBird.exe.config
+D:\C#\projects\trickyBird\bin\Debug\trickyBird.exe
+D:\C#\projects\trickyBird\bin\Debug\trickyBird.pdb
+D:\C#\projects\trickyBird\obj\Debug\trickyBird.csproj.AssemblyReference.cache
+D:\C#\projects\trickyBird\obj\Debug\trickyBird.Form1.resources
+D:\C#\projects\trickyBird\obj\Debug\trickyBird.Properties.Resources.resources
+D:\C#\projects\trickyBird\obj\Debug\trickyBird.csproj.GenerateResource.cache
+D:\C#\projects\trickyBird\obj\Debug\trickyBird.csproj.CoreCompileInputs.cache
+D:\C#\projects\trickyBird\obj\Debug\trickyBird.exe
+D:\C#\projects\trickyBird\obj\Debug\trickyBird.pdb
